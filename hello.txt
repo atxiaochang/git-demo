@@ -16,3 +16,4 @@ hello liuchang! hello git!
 <<<<<<< HEAD
 hello liuchang! hello git! master test
 hello liuchang! hello git! hot-fix test
+1111111111111111111111111
